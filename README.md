@@ -1,98 +1,93 @@
 <div align="center">
 
-```
-$ whoami
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ruchitha+R+%F0%9F%91%8B;AI%2FML+%26+GenAI+Engineer+(Fresher);RAG+Systems+%7C+Cybersecurity+%7C+QA+Automation" alt="Typing SVG" />
+
+📍 Bangalore, Karnataka &nbsp;•&nbsp; 🎓 BCA @ St. Paul's College (2023–2026), CGPA 8/10 &nbsp;•&nbsp; 🔍 Open to Work
+
+<a href="https://www.linkedin.com/in/ruchitharr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/rruchitha460-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:ruchitharuc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
-# Ruchitha R
+<br>
 
-```bash
-> initializing profile...
-> role: AI/ML & GenAI Engineer (Fresher)
-> location: Bangalore, Karnataka
-> status: open_to_work == True
-```
+## 👩‍💻 About Me
 
----
+I build things at the intersection of **AI and security** — RAG pipelines, autonomous agents, and the occasional Nmap scan for fun.
 
-### `~$ cat about.txt`
+- 🔐 Cyber Security Intern @ **IBM** — network recon, vulnerability scanning, Kali Linux
+- 🧪 Software Testing Intern @ **CODTECH IT Solutions** — Selenium, Postman, Gatling
+- 🌱 Currently exploring Multi-Agent Systems & Deep Learning Fundamentals
 
-I build things at the intersection of **AI and security** — RAG pipelines that actually retrieve the right thing, agents that don't hallucinate their way into chaos, and the occasional Nmap scan for fun.
+<br>
 
-BCA @ St. Paul's College, Bangalore (2023–2026) · CGPA 8/10
+## 🚀 Featured Projects
 
----
+**🔎 [Veriscope](https://github.com/rruchitha460-sys/veriscope) — AI Research Platform**
+A multi-tool AI platform with 6 modules — Document Q&A, Fake News Detector, Plagiarism Checker, AI Content Detector, Translator, and URL Trust Checker — powered by GPT-4o-mini via OpenRouter, with a RAG pipeline built on FAISS + HuggingFace embeddings.
 
-### `~$ ./run_experience.sh`
-
-```
-[IBM] Cyber Security Intern
-  → recon with Nmap, WHOIS, Wireshark
-  → vulnerability scanning + basic exploitation via Metasploit
-  → explored bug bounty methodology on Kali Linux
-
-[CODTECH IT Solutions] Software Testing Intern
-  → UI automation with Selenium WebDriver (Python)
-  → API testing via Postman (GET/POST, auth, JSON validation)
-  → load testing with Gatling — throughput, response time, stress limits
-```
-
----
-
-### `~$ ls projects/`
-
-**`veriscope/`** — AI research platform, 6 tools in one
-> RAG-based Document Q&A + Fake News Detector + Plagiarism Checker + AI Content Detector + Translator + URL Trust Checker, running on GPT-4o-mini via OpenRouter. FAISS + HuggingFace embeddings under the hood, tuned chunking for better retrieval.
 `Python` `Streamlit` `LangChain` `FAISS` `HuggingFace`
 
-**`ai-job-searcher-agent/`** — an agent that job-hunts so I don't have to
-> Pulls listings from Adzuna, Greenhouse & Lever → semantic match via sentence embeddings + FAISS → filters out seniority mismatches → LLM explains *why* each job fits, and how to improve my resume for it. Runs daily on APScheduler, deployed with CI/CD.
+**🤖 [AI Job Searcher Agent](https://github.com/rruchitha460-sys/ai-job-search-agent) — Autonomous Career Assistant**
+Fetches job postings from Adzuna, Greenhouse & Lever, semantically matches them to my resume via FAISS, filters out seniority mismatches, and generates plain-language match explanations — running daily via APScheduler with CI/CD deployment.
+
 `Python` `LangChain` `FAISS` `SQLite` `APScheduler`
 
-**`spotify-dashboard/`** — Power BI analytics
-> Interactive dashboard on Spotify songs, artists & streaming trends, with dynamic slicers and Power Query transformations.
+**📊 Spotify Music Streaming Dashboard**
+Interactive Power BI dashboard analyzing songs, artists, and streaming trends with dynamic slicers and Power Query transformations.
+
 `Power BI` `Power Query`
 
----
+<br>
 
-### `~$ cat skills.json`
-
-```json
-{
-  "languages":  ["Python", "Java", "SQL"],
-  "frontend":   ["HTML", "CSS", "Streamlit"],
-  "backend":    ["FastAPI", "Flask", "MongoDB"],
-  "tools":      ["GitHub", "VS Code", "Postman", "Excel", "Power BI"],
-  "ai_tools":   ["ChatGPT", "Claude", "Cursor IDE"]
-}
-```
-
----
-
-### `~$ ls certifications/`
-
-- `AZ-900.cert` — Microsoft Azure Fundamentals (2025)
-- `NCIIPC_workshop.cert` — Cyber Security & Ethical Hacking, Govt. of India (2024)
-- `claude_api_course.cert` — Anthropic: Prompt Engineering, MCP, RAG
-
----
-
-### `~$ ping ruchitha`
-
-```
-LinkedIn  → linkedin.com/in/ruchitharr
-GitHub    → github.com/rruchitha460-sys
-Email     → ruchitharuc@gmail.com
-```
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-`// currently exploring: multi-agent systems & the deep learning stack`
+**Languages & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
-**"The best exploit is the one nobody sees coming — same goes for a good RAG pipeline."**
+**Frontend & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,fastapi,flask,mongodb" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+
+**AI Tools**
+<br>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+
+</div>
+
+<br>
+
+## 📜 Certifications & Awards
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2025 |
+| Cyber Security & Ethical Hacking Workshop | NCIIPC, Govt. of India | 2024 |
+| Anthropic Claude API Course (Prompt Engineering, MCP, RAG) | Anthropic | — |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rruchitha460-sys&show_icons=true&theme=default&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruchitha460-sys&layout=compact&theme=default&hide_border=true" height="160"/>
+</div>
+
+<br>
+
+<div align="center">
+
+*"The best way to predict the future is to build it — one project at a time."*
 
 </div>
