@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ruchitha+R+%F0%9F%91%8B;AI%2FML+%26+GenAI+Engineer+(Fresher);RAG+Systems+%7C+Cybersecurity+%7C+QA+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ruchitha+R+%F0%9F%91%8B;AI%2FML+%26+GenAI+Engineer+(Fresher)" alt="Typing SVG" />
 
 📍 Bangalore, Karnataka &nbsp;•&nbsp; 🎓 BCA @ St. Paul's College (2023–2026), CGPA 8/10 &nbsp;•&nbsp; 🔍 Open to Work
 
@@ -73,7 +73,7 @@ Interactive Power BI dashboard analyzing songs, artists, and streaming trends wi
 |---|---|---|
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2025 |
 | Cyber Security & Ethical Hacking Workshop | NCIIPC, Govt. of India | 2024 |
-| Anthropic Claude API Course (Prompt Engineering, MCP, RAG) | Anthropic | — |
+| Anthropic Claude API Course (Prompt Engineering, MCP, RAG) | Anthropic | 2026 |
 
 <br>
 
