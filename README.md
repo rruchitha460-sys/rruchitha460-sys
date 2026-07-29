@@ -5,7 +5,7 @@
 📍 Bangalore, Karnataka &nbsp;•&nbsp; 🎓 BCA @ St. Paul's College (2023–2026), CGPA 8/10 &nbsp;•&nbsp; 🔍 Open to Work
 
 <a href="https://www.linkedin.com/in/ruchitharr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/rruchitha460-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://ruchithar-portfolio-ten-teal-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:ruchitharuc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
