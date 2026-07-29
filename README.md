@@ -1,66 +1,98 @@
-Hi there, I'm Ruchitha R 👋
+<div align="center">
 
-🚀 Aspiring AI/ML & Generative AI Engineer | RAG Systems Builder | Cybersecurity & QA Enthusiast
+```
+$ whoami
+```
 
-Passionate about building AI-powered applications, agentic systems, and automation tools that solve real-world problems.
+</div>
 
-👩‍💻 About Me
-🎓 Bachelor of Computer Applications (BCA), St. Paul's College, Bangalore — 2023–2026 (CGPA: 8/10)
-📍 Bangalore, Karnataka
-🔐 Cyber Security Intern @ IBM — Kali Linux, Nmap, Wireshark, Metasploit, vulnerability scanning
-🧪 Software Testing Intern @ CODTECH IT Solutions — Selenium, Postman, Gatling
-🌱 Currently learning Multi-Agent Systems, Deep Learning Fundamentals, Transformer Architecture
-💬 Ask me about Python, LangChain, FAISS, RAG, Prompt Engineering, Selenium, Nmap
-🚀 Featured Projects
+# Ruchitha R
 
-🔎 Veriscope — AI Research Platform A multi-tool AI research platform with six integrated modules — Document Q&A, Fake News Detector, Plagiarism Checker, AI Content Detector, Language Translator, and URL Trust Checker — powered by GPT-4o-mini via OpenRouter. Built a RAG-based document Q&A pipeline with HuggingFace embeddings and FAISS, tuning chunking to improve retrieval accuracy.
+```bash
+> initializing profile...
+> role: AI/ML & GenAI Engineer (Fresher)
+> location: Bangalore, Karnataka
+> status: open_to_work == True
+```
 
-Tech Stack
+---
 
-Python
-Streamlit
-LangChain
-HuggingFace
-FAISS
+### `~$ cat about.txt`
 
-🤖 AI Job Searcher Agent An end-to-end AI agent that autonomously fetches job postings from Adzuna, Greenhouse, and Lever, and semantically matches them to a resume using sentence embeddings and FAISS. Includes experience-level filtering via NLP pattern matching and LLM-generated match explanations, with daily automated discovery via APScheduler and CI/CD deployment on Streamlit Cloud.
+I build things at the intersection of **AI and security** — RAG pipelines that actually retrieve the right thing, agents that don't hallucinate their way into chaos, and the occasional Nmap scan for fun.
 
-Tech Stack
+BCA @ St. Paul's College, Bangalore (2023–2026) · CGPA 8/10
 
-Python
-LangChain
-FAISS
-SQLite
-Streamlit
-OpenRouter
-APScheduler
+---
 
-📊 Spotify Music Streaming Dashboard An interactive Power BI dashboard analyzing Spotify songs, artists, and streaming trends, with dynamic filters/slicers and data transformation via Power Query.
+### `~$ ./run_experience.sh`
 
-Tech Stack
+```
+[IBM] Cyber Security Intern
+  → recon with Nmap, WHOIS, Wireshark
+  → vulnerability scanning + basic exploitation via Metasploit
+  → explored bug bounty methodology on Kali Linux
 
-Power BI
-Power Query
-🛠 Tech Stack
+[CODTECH IT Solutions] Software Testing Intern
+  → UI automation with Selenium WebDriver (Python)
+  → API testing via Postman (GET/POST, auth, JSON validation)
+  → load testing with Gatling — throughput, response time, stress limits
+```
 
-Programming Languages Python · Java · SQL
+---
 
-Front-end HTML · CSS · Streamlit
+### `~$ ls projects/`
 
-Back-end FastAPI · Flask · MongoDB
+**`veriscope/`** — AI research platform, 6 tools in one
+> RAG-based Document Q&A + Fake News Detector + Plagiarism Checker + AI Content Detector + Translator + URL Trust Checker, running on GPT-4o-mini via OpenRouter. FAISS + HuggingFace embeddings under the hood, tuned chunking for better retrieval.
+`Python` `Streamlit` `LangChain` `FAISS` `HuggingFace`
 
-Tools & Platforms GitHub · VS Code · Postman · Excel · Power BI
+**`ai-job-searcher-agent/`** — an agent that job-hunts so I don't have to
+> Pulls listings from Adzuna, Greenhouse & Lever → semantic match via sentence embeddings + FAISS → filters out seniority mismatches → LLM explains *why* each job fits, and how to improve my resume for it. Runs daily on APScheduler, deployed with CI/CD.
+`Python` `LangChain` `FAISS` `SQLite` `APScheduler`
 
-AI Tools ChatGPT · Claude · Cursor IDE
+**`spotify-dashboard/`** — Power BI analytics
+> Interactive dashboard on Spotify songs, artists & streaming trends, with dynamic slicers and Power Query transformations.
+`Power BI` `Power Query`
 
-📜 Certifications & Awards
-✅ Microsoft Azure Fundamentals (AZ-900) — Microsoft, 2025
-✅ Cyber Security & Ethical Hacking Workshop — NCIIPC (Govt. of India), 2024
-✅ Anthropic Claude API Course — Prompt Engineering, MCP, RAG
-🌐 Connect with Me
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/ruchitharr 💻 GitHub: https://github.com/rruchitha460-sys 📧 Email: ruchitharuc@gmail.com
+### `~$ cat skills.json`
 
-💭 Quote
+```json
+{
+  "languages":  ["Python", "Java", "SQL"],
+  "frontend":   ["HTML", "CSS", "Streamlit"],
+  "backend":    ["FastAPI", "Flask", "MongoDB"],
+  "tools":      ["GitHub", "VS Code", "Postman", "Excel", "Power BI"],
+  "ai_tools":   ["ChatGPT", "Claude", "Cursor IDE"]
+}
+```
 
-"The best way to predict the future is to build it — one agent at a time."
+---
+
+### `~$ ls certifications/`
+
+- `AZ-900.cert` — Microsoft Azure Fundamentals (2025)
+- `NCIIPC_workshop.cert` — Cyber Security & Ethical Hacking, Govt. of India (2024)
+- `claude_api_course.cert` — Anthropic: Prompt Engineering, MCP, RAG
+
+---
+
+### `~$ ping ruchitha`
+
+```
+LinkedIn  → linkedin.com/in/ruchitharr
+GitHub    → github.com/rruchitha460-sys
+Email     → ruchitharuc@gmail.com
+```
+
+---
+
+<div align="center">
+
+`// currently exploring: multi-agent systems & the deep learning stack`
+
+**"The best exploit is the one nobody sees coming — same goes for a good RAG pipeline."**
+
+</div>
