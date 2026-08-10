@@ -29,10 +29,10 @@ A multi-tool AI platform with 6 modules — Document Q&A, Fake News Detector, Pl
 
 `Python` `Streamlit` `LangChain` `FAISS` `HuggingFace`
 
-**🤖 [AI Job Searcher Agent](https://github.com/rruchitha460-sys/ai-job-search-agent) — Autonomous Career Assistant**
-Fetches job postings from Adzuna, Greenhouse & Lever, semantically matches them to my resume via FAISS, filters out seniority mismatches, and generates plain-language match explanations — running daily via APScheduler with CI/CD deployment.
+**🤖 [AI Job Searcher Agent](https://github.com/rruchitha460-sys/ai-job-search-agent) — Multi-Agent Career Assistant**
+A LangGraph-orchestrated multi-agent system that sources job postings from Adzuna, Greenhouse & Lever, semantically matches them to my resume via FAISS, filters out seniority mismatches, and generates plain-language match explanations — running daily via APScheduler with CI/CD deployment.
 
-`Python` `LangChain` `FAISS` `SQLite` `APScheduler`
+`Python` `LangChain` `LangGraph` `FAISS` `SQLite` `APScheduler`
 
 **📊 Spotify Music Streaming Dashboard**
 Interactive Power BI dashboard analyzing songs, artists, and streaming trends with dynamic slicers and Power Query transformations.
