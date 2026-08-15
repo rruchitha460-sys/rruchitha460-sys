@@ -30,7 +30,7 @@ A multi-tool AI platform with 6 modules — Document Q&A, Fake News Detector, Pl
 `Python` `Streamlit` `LangChain` `FAISS` `HuggingFace`
 
 **🤖 [AI Job Searcher Agent](https://github.com/rruchitha460-sys/ai-job-search-agent) — Multi-Agent Career Assistant**
-A LangGraph-orchestrated multi-agent system that sources job postings from Adzuna, Greenhouse & Lever, semantically matches them to my resume via FAISS, filters out seniority mismatches, and generates plain-language match explanations — running daily via APScheduler with CI/CD deployment.
+A LangGraph-orchestrated multi-agent system that sources job postings from Adzuna, Greenhouse & Lever, semantically matches them to my resume via FAISS, filters out seniority mismatches, and generates plain-language match explanations — running daily via APScheduler with CI/CD deployment. Includes an LLMOps layer with structured run logging, a monitoring dashboard tracking success rate and match trends over time, and automated CI smoke tests on every push.
 
 `Python` `LangChain` `LangGraph` `FAISS` `SQLite` `APScheduler`
 
