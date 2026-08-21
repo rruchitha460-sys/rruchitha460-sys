@@ -34,6 +34,11 @@ A LangGraph-orchestrated multi-agent system that sources job postings from Adzun
 
 `Python` `LangChain` `LangGraph` `FAISS` `SQLite` `APScheduler`
 
+**🛡️ [Guardrails & Evaluation Toolkit](https://github.com/rruchitha460-sys/guardrails-toolkit) — Reusable LLM Safety Layer**
+A pluggable guardrails framework with input and output safety checks — PII detection, prompt injection, toxicity filtering, and hallucination detection — built around a reusable pipeline orchestrator instead of tied to one app. Backed by an evaluation harness with labeled test cases scoring precision, recall, and false-positive rate, currently at 100% accuracy on the test suite. Deployed full stack with a FastAPI backend on Render and a live demo frontend on Vercel showing each guardrail check in real time.
+
+`Python` `FastAPI` `MongoDB` `HTML/CSS/JS`
+
 **📊 Spotify Music Streaming Dashboard**
 Interactive Power BI dashboard analyzing songs, artists, and streaming trends with dynamic slicers and Power Query transformations.
 
